@@ -1,0 +1,24 @@
+@charset "utf-8";
+
+.hghtGeneral_hide{display: none;}
+.wtdhGeneral_hide{display: none;}
+
+@media (max-width: 320px){	.wtdhMax0320_hide{display: none;} }
+@media (min-width: 321px) and (max-width: 480px)  { .wtdhMin321Max480_hide  {display: none;} }
+@media (min-width: 481px) and (max-width: 600px)  { .wtdhMin481Max600_hide  {display: none;} }
+@media (min-width: 601px) and (max-width: 800px)  { .wtdhMin601Max800_hide  {display: none;} }
+@media (min-width: 801px) and (max-width: 1024px) { .wtdhMin801Max1024_hide {display: none;} }
+@media (min-width: 1025px) and (max-width: 1280px){ .wtdhMin1025Max1280_hide{display: none;} }
+@media (min-width: 1281px) and (max-width: 1420px){ .wtdhMin1281Max1420_hide{display: none;} }
+@media (min-width: 1421px) and (max-width: 1920px){ .wtdhMin1421Max1920_hide{display: none;} }
+@media (min-width: 1921px){ .wtdhMin1921_hide{display: none;} }
+
+@media (max-height: 320px){ .hghtMax320_hide{display: none;} }
+@media (min-height: 321px) and (max-height: 480px)  { .hghtMin320Max480_hide  {display: none;} }
+@media (min-height: 481px) and (max-height: 600px)  { .hghtMin481Max600_hide  {display: none;} }
+@media (min-height: 601px) and (max-height: 800px)  { .hghtMin601Max800_hide  {display: none;} }
+@media (min-height: 801px) and (max-height: 1024px) { .hghtMin801Max1024_hide {display: none;} }
+@media (min-height: 1025px) and (max-height: 1280px){ .hghtMin1025Max1280_hide{display: none;} }
+@media (min-height: 1281px) and (max-height: 1420px){ .hghtMin1281Max1420_hide{display: none;} }
+@media (min-height: 1421px) and (max-height: 1920px){ .hghtMin1421Max1920_hide{display: none;} }
+@media (min-height: 1921px){ .hghtMin1921_hide{display: none;} }
